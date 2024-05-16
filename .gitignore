@@ -4,3 +4,8 @@ Create-EC2-Instance/.terraform/providers/registry.terraform.io/hashicorp/aws/5.4
 Create-EC2-Instance/.terraform/providers/registry.terraform.io/hashicorp/aws/5.49.0/windows_amd64/terraform-provider-aws_v5.49.0_x5.exe
 Create-EC2-Instance/terraform.tfstate
 Create-EC2-Instance/terraform.tfstate.backup
+Create-EC2-Instance with credentials soft coded/.terraform.lock.hcl
+Create-EC2-Instance with credentials soft coded/.terraform/providers/registry.terraform.io/hashicorp/aws/5.49.0/windows_amd64/LICENSE.txt
+Create-EC2-Instance with credentials soft coded/.terraform/providers/registry.terraform.io/hashicorp/aws/5.49.0/windows_amd64/terraform-provider-aws_v5.49.0_x5.exe
+Create-EC2-Instance with credentials soft coded/terraform.tfstate
+Create-EC2-Instance with credentials soft coded/terraform.tfstate.backup
