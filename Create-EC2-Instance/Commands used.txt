@@ -1,0 +1,6 @@
+terraform init
+terraform plan
+terraform apply
+
+Not Manadatory - To cleanup after the exercise
+terraform destroy
